@@ -9,7 +9,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-case-study-inner">
                     <div class="thumb">
-                        <img src="{{ asset('assets/img/case-study/1.png') }}" alt="img">
+                        <img src="{{ asset('assets/img/tech.jpg') }}" alt="img">
                     </div>
                     <div class="details">
                         <h5><a href="project-details.html">Technology World</a></h5>
@@ -21,7 +21,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-case-study-inner">
                     <div class="thumb">
-                        <img src="{{ asset('assets/img/case-study/2.png') }}" alt="img">
+                        <img src="{{ asset('assets/img/tech2.jpg') }}" alt="img">
                     </div>
                     <div class="details">
                         <h5><a href="project-details.html">Tech Solutions</a></h5>
@@ -33,7 +33,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-case-study-inner">
                     <div class="thumb">
-                        <img src="{{ asset('assets/img/case-study/3.png') }}" alt="img">
+                        <img src="{{ asset('assets/img/tech3.jpg') }}" alt="img">
                     </div>
                     <div class="details">
                         <h5><a href="project-details.html">Digital Hub</a></h5>
